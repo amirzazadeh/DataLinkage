@@ -1,6 +1,6 @@
 # Data Linkage Techniques
 
-> Understanding and applying deterministic, fuzzy, and probabilistic methods to link records across datasets.
+Understanding and applying deterministic, fuzzy, and probabilistic methods to link records across datasets.
 
 ---
 
@@ -24,8 +24,8 @@ This talk provides an introduction to **data linkage techniques** used to identi
 
 - **English Slides**: [Link](https://ucsf.box.com/s/anubn3kle4skfl3jjz94cpfz8icm59xe)
 - **Vietnamese Slides**: [Link](https://ucsf.box.com/s/vux84sqjre0ppk1qolvjj83hkqo5e42e)
-- **R Syntax**: [Link](https://github.com/amirzazadeh/DataLinkage/edit/main/README.md#:~:text=R_Syntax_DataLinkage)
-- **Stata Do file**: [Link](https://github.com/amirzazadeh/DataLinkage/edit/main/README.md#:~:text=Stata_DoFile_DataLinkage)
+- **R Syntax**: [Link](R_Syntax_DataLinkage.R)
+- **Stata Do file**: [Link](Stata_DoFile_DataLinkage.do)
 
 ---
 
