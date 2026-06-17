@@ -22,10 +22,10 @@ This talk provides an introduction to **data linkage techniques** used to identi
 
 ## Slides and Materials
 
-- **English Slides**: Link
-- **Vietnamese Slides**: Link
-- **R Syntax**: Link
-- **Stata Do file**: Link
+- **English Slides**: [Link](https://ucsf.box.com/s/anubn3kle4skfl3jjz94cpfz8icm59xe)
+- **Vietnamese Slides**: [Link](https://ucsf.box.com/s/vux84sqjre0ppk1qolvjj83hkqo5e42e)
+- **R Syntax**: [Link](https://github.com/amirzazadeh/DataLinkage/edit/main/README.md#:~:text=R_Syntax_DataLinkage)
+- **Stata Do file**: [Link](https://github.com/amirzazadeh/DataLinkage/edit/main/README.md#:~:text=Stata_DoFile_DataLinkage)
 
 ---
 
