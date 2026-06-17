@@ -6,7 +6,7 @@
 
 ## Overview
 
-This talk provides an introduction to **data linkage techniques** used to identify and connect records that refer to the same individual, organization, or entity across multiple datasets. We cover common linkage approaches — including **deterministic matching**, **fuzzy matching**, and **probabilistic linkage** — along with practical considerations for data cleaning, evaluation, and quality assurance.
+This talk provides an introduction to **data linkage techniques** used to identify and connect records that refer to the same individual, organization, or entity across multiple datasets. We cover common linkage approaches, including **deterministic matching**, **fuzzy matching**, and **probabilistic linkage**, along with practical considerations for data cleaning, evaluation, and quality assurance.
 
 ---
 
@@ -16,7 +16,7 @@ This talk provides an introduction to **data linkage techniques** used to identi
 - Learn when to use deterministic, fuzzy, and probabilistic linkage methods.
 - Evaluate linkage quality using metrics such as **precision**, **recall**, and **F-measure**.
 - Apply best practices for data cleaning and record matching.
-- Learn how to use do deterministic, fuzzy, and probabilistic linkage by R or Stata.
+- Learn how to do deterministic, fuzzy, and probabilistic linkage by R or Stata.
 
 ---
 
@@ -31,7 +31,7 @@ This talk provides an introduction to **data linkage techniques** used to identi
 
 ## Recording
 
-> **Recorded Video:** Will be added after the presentation.
+- **Recorded Video:** Will be added after the presentation.
 
 ---
 
@@ -52,9 +52,7 @@ Estimating the likelihood that records belong to the same person despite discrep
 ### Practical Tips
 Best practices for:
 - Data cleaning and standardization
-- Blocking strategies to reduce comparisons
 - Match evaluation and threshold selection
-- Avoiding common linkage errors
 
 ---
 
@@ -65,8 +63,7 @@ Best practices for:
 - How do fuzzy matching algorithms compare records with imperfect or inconsistent text?
 - How does probabilistic linkage estimate whether records belong to the same individual?
 - How can linkage quality be evaluated using precision, recall, and F-measure?
-- What are common sources of linkage error, and how can they be addressed?
-- Which tools and software packages are available for data linkage?
+- Which tools and software packages are available for data linkage in R and Stata?
 
 ---
 
