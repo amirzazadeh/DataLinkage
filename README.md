@@ -16,19 +16,16 @@ This talk provides an introduction to **data linkage techniques** used to identi
 - Learn when to use deterministic, fuzzy, and probabilistic linkage methods.
 - Evaluate linkage quality using metrics such as **precision**, **recall**, and **F-measure**.
 - Apply best practices for data cleaning and record matching.
-- Recognize and minimize common linkage errors, including false matches and missed matches.
-- Compare available tools and approaches for data linkage projects.
+- Learn how to use do deterministic, fuzzy, and probabilistic linkage by R or Stata.
 
 ---
 
 ## Slides and Materials
 
-| Resource | Link |
-|----------|------|
-| English Slides | _Coming soon_ |
-| Vietnamese Slides | _Coming soon_ |
-| Example Dataset | _Coming soon_ |
-| Data Linkage Resources | _Coming soon_ |
+- **English Slides**: Link
+- **Vietnamese Slides**: Link
+- **R Syntax**: Link
+- **Stata Do file**: Link
 
 ---
 
